@@ -1,0 +1,5 @@
+*~
+*.sw[a-z]
+dist/
+packagecloud.conf.json
+sym-osac
